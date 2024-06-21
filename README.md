@@ -4,6 +4,10 @@ In this repository I was experimenting with Next.js authentication mechanisms. I
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Screenshot
+![image](https://github.com/KayDrechsler/nextjs-auth/assets/4559673/b25206ca-796a-4129-a5d5-6952971e3e44)
+
+
 ## Getting Started
 
 First, run the development server:
